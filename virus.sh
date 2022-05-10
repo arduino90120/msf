@@ -1,4 +1,4 @@
-sudo apt update && sudo apt upgrade
+sudo apt update && //sudo apt upgrade
 sudo apt install -y adb apache2 
 sudo cp /sdcard/Download/ngrok /root
 cd /root
